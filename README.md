@@ -1,3 +1,5 @@
+Wow! I have CI/CD configured!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
