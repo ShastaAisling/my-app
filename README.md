@@ -1,6 +1,9 @@
 # Welcome to my web application!
 [![CircleCI](https://circleci.com/gh/ShastaAisling/my-app.svg?style=svg)](https://circleci.com/gh/ShastaAisling/my-app) [![Maintainability](https://api.codeclimate.com/v1/badges/9b71fde039a441a093d1/maintainability)](https://codeclimate.com/github/ShastaAisling/my-app/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/9b71fde039a441a093d1/test_coverage)](https://codeclimate.com/github/ShastaAisling/my-app/test_coverage)
 
+NOTES:
+-Testing CodeClimate coverage exclusion of serviceWorker.js
+
 ## Available Scripts
 
 In the project directory, you can run:
